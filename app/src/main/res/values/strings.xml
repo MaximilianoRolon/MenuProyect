@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MenuProyect</string>
+    <string name="menu_about">menu_about</string>
+    <string name="menu_settings">settings</string>
+    <string name="textAbout">About</string>
+    <string name="textSettings">Settings</string>
+    <string name="edit_title">Edit</string>
+    <string name="delete_title">delete</string>
+    <string name="nombre_persona">Maxi</string>
+    <string name="menu_view">View Text</string>
+    <string name="menu_view_detail">View text detail</string>
+    <string name="text_popup">POPUP</string>
 </resources>
